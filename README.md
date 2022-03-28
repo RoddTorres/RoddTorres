@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=roddtorres&theme=gruvbox&layout=compact&show_icons=true)
+![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=roddtorres&layout=compact&theme=gruvbox&show_icons=true)
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact&theme=gruvbox)
 
 ## About me
