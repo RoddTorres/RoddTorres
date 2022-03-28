@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=roddtorres&theme=gruvbox&show_icons=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact&theme=gruvbox)](https://github.com/roddtorres/github-readme-stats)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact&theme=gruvbox)
 
 ## About me
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RoddTorres)](https://github.com/RoddTorres)
