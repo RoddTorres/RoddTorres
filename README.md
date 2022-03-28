@@ -3,6 +3,10 @@
 ![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## About me
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/RoddTorres)](https://github.com/RoddTorres)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigo-torres-de-souza-1048711b0/)](https://www.linkedin.com/in/rodrigo-torres-de-souza-1048711b0/)
+
 
 
 <!--
