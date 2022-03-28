@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
+![RoddTorres Status](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true)
 
 
 <!--
