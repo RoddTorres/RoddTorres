@@ -28,8 +28,6 @@ Hi 👋 My name is Rodrigo Torres
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-![RoddTorres's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true&theme=gruvbox)
+![RoddTorres's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true&theme=gruvbox&hide=issues)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact&theme=gruvbox)
