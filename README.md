@@ -1,7 +1,7 @@
 Hi 👋 My name is Rodrigo Torres
 ===============================
 
-\[Loading...\] Web full stack
+Web full stack
 -----------------------------
 
 * 🌍  I'm based in Blumenau SC -BR
