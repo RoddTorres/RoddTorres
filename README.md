@@ -6,7 +6,8 @@ Web full stack
 
 * 🌍  I'm based in Blumenau SC -BR
 * ✉️  You can contact me at [rtsouza87@gmail.com](mailto:rtsouza87@gmail.com)
-* 🧠  I'm learning HTML5, CSS3, JavaScript, PostgreSQL, Node.JS, React, Java
+* 🧠  Studying for AWS Cloud Practitioner exam 
+* 👔  HTML5, CSS3, JavaScript, PostgreSQL, Node.JS, React, Java
 * ⚡  Bass player. Workout. Soccer
 
 ### Skills
