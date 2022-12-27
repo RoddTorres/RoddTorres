@@ -6,7 +6,7 @@ Web full stack
 
 * 🌍  I'm based in Blumenau SC -BR
 * ✉️  You can contact me at [rtsouza87@gmail.com](mailto:rtsouza87@gmail.com)
-* 🧠  Studying for AWS Cloud Practitioner exam 
+* 📄  AWS Certified Cloud Practitioner: https://www.credly.com/badges/5df9e7bb-3aa7-4164-bfbd-02eb11e6f139/linked_in_profile
 * 👔  HTML5, CSS3, JavaScript, PostgreSQL, Node.JS, React, Java
 * ⚡  Bass player. Workout. Soccer
 
