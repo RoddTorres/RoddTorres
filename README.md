@@ -29,6 +29,6 @@ Web full stack
 
 ### Badges
 
-![RoddTorres's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true&theme=gruvbox&hide=issues)
+<!--![RoddTorres's GitHub stats](https://github-readme-stats.vercel.app/api?username=roddtorres&show_icons=true&theme=gruvbox&hide=issues)-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roddtorres&layout=compact&theme=gruvbox)
